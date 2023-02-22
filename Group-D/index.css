@@ -1,0 +1,136 @@
+#second{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 230px;
+ 
+}
+#second .second-12 .second-1-1{
+    display: flex;
+    padding-top: 12px;
+}
+#second .second-2{
+    padding-left: 200px;
+ 
+}
+#second .second-1 .second-12 .second-1-1 p{
+    padding-left: 10px;
+}
+#second .second-2 .second-12 .second-1-1 p{
+    padding-left: 10px;
+}
+ #second .second-3 .second-12 .second-1-1 p{
+    padding-left: 10px;
+   
+}
+/*
+#second .second-3 #second67 #second77 p{
+  padding-right: 80px;
+} */
+
+#second .second-3{
+    padding-left: 70px;
+    
+}
+.hrline hr{
+   padding-top: 40px;
+}
+.client .client-1{
+    padding-top: 70px;
+    margin-left: 230px;
+   
+}
+.client .client-1 h1{
+    font-weight: lighter;
+}
+.client .client-1-2{
+    margin-left: 13%;
+    width: 1000px;
+
+}
+.client .client-1-2 img{
+    padding-left: 15px;
+}
+.footer{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 13%;
+    height: 200px;
+    padding-top: 4%;
+    background-color: skyblue;
+}
+.footer .footer-5{
+    padding-left: 255px;
+}
+.footer .footer-2{
+    padding-left: 100px;
+}
+.footer .footer-2 .footer-2-1{
+    display: flex;
+    
+}
+.footer .footer-2 .footer-2-1 p{
+    padding-left: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 40;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+ 
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer .footer-3{
+    display: flex;
+    padding-top: 20px;
+}
+.footer .footer-4{
+    display: flex;
+    padding-top: 20px;
+}
+.footer .footer-3 p{
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 40;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+  
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer .footer-4 p{
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 40;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+ 
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer .footer-1 p{
+    font-size: 18px;
+    font-weight: 40;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    padding-top: 10px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer .footer-5{
+    font-size: 18px;
+    font-weight: 40;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    padding-top: 10px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer .footer-2 .footer-2-1 i{
+    padding-top: 7px;
+}
+.footer .footer-2 .footer-3 i{
+    padding-top: 7px;
+}
+.footer .footer-2 .footer-4 i{
+    padding-top: 7px;
+}
